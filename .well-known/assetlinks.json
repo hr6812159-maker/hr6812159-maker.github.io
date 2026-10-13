@@ -1,11 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.hr6812159_maker.twa",
-    "sha256_cert_fingerprints": [
-      "31:33:37:F5:B4:BC:5A:6A:B4:80:EA:E9:F1:B1:87:63:84:5A:1C:DE:E4:FF:39:FF:66:D0:72:4F:B4:5D:27:06",
-      "B2:98:C6:0B:59:05:99:36:58:8A:8F:59:33:D2:D0:8C:8E:DE:A2:28:E7:C4:35:74:84:0C:03:82:B4:76:7C:5D"
-    ]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.hr6812159_maker.twa",
+        "sha256_cert_fingerprints": ["7F:1A:ED:56:59:53:D0:24:88:A1:1D:33:44:F0:80:B4:3A:56:2C:9B:63:AA:AB:A8:8F:EB:F7:48:F2:4C:11:E9"]
+      }
+    }]
