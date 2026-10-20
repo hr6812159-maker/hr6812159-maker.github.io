@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sadiastudio.snakechanger",
+        "sha256_cert_fingerprints": ["63:16:11:07:22:44:F6:C7:9B:18:BD:0B:47:88:F6:0E:7A:70:5E:AE:F0:98:7D:29:F3:78:65:6A:51:F3:40:9B"]
+      }
+    }]
