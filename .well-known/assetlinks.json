@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.sadiastudio.snakechanger",
-    "sha256_cert_fingerprints": ["63:16:11:07:22:44:F6:C7:9B:18:BD:0B:47:88:F6:0E:7A:70:5E:AE:F0:98:7D:29:F3:78:65:6A:51:F3:40:9B"]
+    "sha256_cert_fingerprints": ["631611072244F6C79B18BD0B4788F60E7A705EAEF0987D29F378656A51F3409B"]
   }
 }]
