@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.hr6812159_maker.twa",
-        "sha256_cert_fingerprints": ["74:D9:EF:59:E3:01:81:12:A6:70:9D:1C:A7:1F:EF:B7:E6:9D:63:9E:1F:35:2F:AA:5F:8C:D1:08:CD:1C:89:F6"]
+        "package_name": "com.sadiastudio.snakechanger",
+        "sha256_cert_fingerprints": ["A2:B6:61:74:99:B3:49:2A:E7:98:0A:B3:77:3A:AB:1A:CA:EC:51:62:16:C4:C8:EB:73:21:05:2E:ED:FC:56:64"]
       }
     }]
